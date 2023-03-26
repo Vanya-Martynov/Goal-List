@@ -6,4 +6,4 @@ npm install
 
 npm start
 
-You will see details where to run this code, you can use browser as example
+You will see details where to run this code, you can use browser as example but it's also supported in Android and IOS
